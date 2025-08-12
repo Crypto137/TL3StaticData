@@ -1,0 +1,3 @@
+---,PlayerStatusEffect,PetStatusEffect,Weight,RequireAny,RequireAll,ExcludeAny,Notes
+BountifulLuck,"/Game/Skills/Blueprints/StatusEffects/StatusEffect_LuckTree_Visitor_5_Rare.StatusEffect_LuckTree_Visitor_5_Rare_C","None","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""
+BerserkerPet,"None","/Game/Skills/Blueprints/Monsters/Affixes/RevisedSet/Berserker/StatusEffect_MonsterAffix_BerserkerRage.StatusEffect_MonsterAffix_BerserkerRage_C","0","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""

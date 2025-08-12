@@ -1,0 +1,11 @@
+---,PlayerStatusEffect,PetStatusEffect,Weight,RequireAny,RequireAll,ExcludeAny,Notes
+BountifulLuck,"/Game/Skills/Blueprints/StatusEffects/StatusEffect_LuckTree_Visitor_5_Rare.StatusEffect_LuckTree_Visitor_5_Rare_C","None","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""
+BerserkerPet,"None","/Game/Skills/Blueprints/Monsters/Affixes/RevisedSet/Berserker/StatusEffect_MonsterAffix_BerserkerRage.StatusEffect_MonsterAffix_BerserkerRage_C","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""
+Shackled,"/Game/StatusEffect_DisableSkill0405.StatusEffect_DisableSkill0405_C","None","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""
+Chained,"/Game/StatusEffect_DisableSkill05.StatusEffect_DisableSkill05_C","None","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""
+Cranked,"/Game/Skills/Blueprints/StatusEffects/StatusEffect_Cranked.StatusEffect_Cranked_C","None","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""
+LegendaryGift_PotionDash,"/Game/Skills/Blueprints/StatusEffects/StatusEffect_PotionDash.StatusEffect_PotionDash_C","None","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""
+LegendaryGift_Frenzy,"/Game/Skills/Blueprints/StatusEffects/StatusEffect_Frenzy.StatusEffect_Frenzy_C","None","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""
+LegendaryGift_MovementCharges,"/Game/Skills/Blueprints/StatusEffects/StatusEffect_MovementCharges.StatusEffect_MovementCharges_C","None","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""
+LegendaryGift_ShrineOnChampKill,"/Game/Skills/Blueprints/StatusEffects/StatusEffect_ShrineOnChampKill.StatusEffect_ShrineOnChampKill_C","None","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""
+LegendaryGift_PotionHunter,"/Game/Skills/Blueprints/StatusEffects/StatusEffect_PotionHunter.StatusEffect_PotionHunter_C","None","1","(GameplayTags=)","(GameplayTags=)","(GameplayTags=)",""

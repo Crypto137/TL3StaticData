@@ -1,0 +1,45 @@
+---,Platforms,LocaleString,TermsType,LanguageString,TermsAddress,Notes
+1,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,en-US;en-GB,/tos/ToS_EU_en.json,file ready
+2,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,fr,/tos/ToS_EU_fr-FR.json,file ready
+3,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,de,/tos/ToS_EU_de-DE.json,file ready
+4,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,it,/tos/ToS_EU_it-IT.json,file ready
+5,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,ru,/tos/ToS_EU_ru.json,file ready
+6,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,pt-BR,/tos/PCTermsOfService.json,needs loc
+7,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,es,/tos/ToS_EU_es.json,file ready
+8,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,zh-Hans,/tos/PCTermsOfService.json,needs loc
+9,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,zh-Hant,/tos/PCTermsOfService.json,needs loc
+10,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,ja,/tos/PCTermsOfService.json,needs loc
+11,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Terms of Service,any,/tos/ToS_EU_en.json,fallback
+12,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,en-US;en-GB,/tos/PP_EU_en.json,file ready
+13,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,fr,/tos/PCPrivacyPolicy.json,needs loc
+14,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,de,/tos/PCPrivacyPolicy.json,needs loc
+15,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,it,/tos/PCPrivacyPolicy.json,needs loc
+16,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,ru,/tos/PCPrivacyPolicy.json,needs loc
+17,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,pt-BR,/tos/PCPrivacyPolicy.json,needs loc
+18,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,es,/tos/PCPrivacyPolicy.json,needs loc
+19,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,zh-Hans,/tos/PCPrivacyPolicy.json,needs loc
+20,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,zh-Hant,/tos/PCPrivacyPolicy.json,needs loc
+21,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,ja,/tos/PCPrivacyPolicy.json,needs loc
+22,any,cs;da;de;el;en-GB;es;fi;fr;hu;it;nl;no;pl;pt;ro;sv,Privacy Policy,any,/tos/PP_EU_en.json,fallback
+23,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,en-US;en-GB,/tos/ToS_US_en.json,file ready
+24,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,fr,/tos/PCTermsOfService.json,needs loc
+25,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,de,/tos/PCTermsOfService.json,needs loc
+26,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,it,/tos/PCTermsOfService.json,needs loc
+27,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,ru,/tos/PCTermsOfService.json,needs loc
+28,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,pt-BR,/tos/PCTermsOfService.json,needs loc
+29,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,es,/tos/PCTermsOfService.json,needs loc
+30,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,zh-Hans,/tos/PCTermsOfService.json,needs loc
+31,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,zh-Hant,/tos/PCTermsOfService.json,needs loc
+32,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,ja,/tos/PCTermsOfService.json,needs loc
+33,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Terms of Service,any,/tos/ToS_US_en.json,fallback
+34,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,en-US;en-GB,/tos/PP_US_en.json,file ready
+35,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,fr,/tos/PCPrivacyPolicy.json,needs loc
+36,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,de,/tos/PCPrivacyPolicy.json,needs loc
+37,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,it,/tos/PCPrivacyPolicy.json,needs loc
+38,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,ru,/tos/PCPrivacyPolicy.json,needs loc
+39,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,pt-BR,/tos/PCPrivacyPolicy.json,needs loc
+40,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,es,/tos/PCPrivacyPolicy.json,needs loc
+41,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,zh-Hans,/tos/PCPrivacyPolicy.json,needs loc
+42,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,zh-Hant,/tos/PCPrivacyPolicy.json,needs loc
+43,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,ja,/tos/PCPrivacyPolicy.json,needs loc
+44,any,ar;en-US;es-419;fr-CA;id;ja;ko;pt-BR;ru;th;tr;vi;zh-Hant;zh-Hans,Privacy Policy,any,/tos/PP_US_en.json,fallback

@@ -1,0 +1,5 @@
+---,ChargeTimeSeconds,DrainTimeSeconds,SkillTab,SkillTag,MasteryBonus,MasteryBonusForShrine,LevelUpSkill,MaxLevel,Notes
+Bane,"120.000000","30.000000","(RowName=""Bane"")","(TagName=""Skill.EmberWeapon.Bane"")","None","None","/Game/Skills/Blueprints/EmberWeapons/Skill_EmberWeaponLevelIUp.Skill_EmberWeaponLevelIUp_C","40.000000",""
+BloodDrinker,"120.000000","30.000000","(RowName=""BloodDrinker"")","(TagName=""Skill.EmberWeapon.BloodDrinker"")","None","None","/Game/Skills/Blueprints/EmberWeapons/Skill_EmberWeaponLevelIUp.Skill_EmberWeaponLevelIUp_C","40.000000",""
+FlamingDestroyer,"120.000000","30.000000","(RowName=""FlamingDestroyer"")","(TagName=""Skill.EmberWeapon.FlamingDestroyer"")","None","None","/Game/Skills/Blueprints/EmberWeapons/Skill_EmberWeaponLevelIUp.Skill_EmberWeaponLevelIUp_C","40.000000",""
+StaffofHolylFury,"120.000000","30.000000","(RowName="""")","(TagName=""Skill.EmberWeapon"")","None","None","/Game/Skills/Blueprints/EmberWeapons/Skill_EmberWeaponLevelIUp.Skill_EmberWeaponLevelIUp_C","50.000000",""

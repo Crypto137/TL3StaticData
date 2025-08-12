@@ -1,0 +1,4 @@
+---,SpokeName,GameplayTag,LevelUpSkill,bHiddenBehindCheats,MaxLevel,MinLevel,Notes
+GoblinForest,"NSLOCTEXT(""SpokeTable"", ""C3DF4E8F4CFC009F178C1D8C9023D00A"", ""Goblin Frontier"")","(TagName=""Region.GoblinIsle.GoblinForest"")","/Game/Skills/Blueprints/Skill_FrontierLevelUp.Skill_FrontierLevelUp_C","False","50.000000","1.000000",""
+InfestedForest,"NSLOCTEXT(""SpokeTable"", ""D15760CA4756A6E0C0ED1DB064D4A302"", ""Hyvid Frontier"")","(TagName=""Region.GoblinIsle.InfestedForest"")","/Game/Skills/Blueprints/Skill_FrontierLevelUp.Skill_FrontierLevelUp_C","False","50.000000","0.000000",""
+Events,"NSLOCTEXT(""SpokeTable"", ""F93A297948BC3EF8D6795DAE85899B2E"", ""Events"")","(TagName=""Region.Event"")","None","True","50.000000","0.000000",""
